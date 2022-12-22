@@ -1,0 +1,21 @@
+[?1049h[22;0;0t[>4;2m[?1h=[?2004h[1;20r[?12h[?12l[22;2t[22;1t[27m[23m[29m[m[H[2J[?25l[20;1H[1m[37m[41mE325: ATTENTION[m
+Found a swap file by the name ".0-run.swp"
+[10Cowned by: root   dated: Wed Dec 21 01
+[19;48H:[20;1H23:16 2022
+[9Cfile name: /alx-higher_level_programmi
+[19;48Hn[20;1Hg/0x00-python-hello_world/0-run
+[10Cmodified: no
+[9Cuser name: root   host name: bf4833793
+[19;48H5[20;1H9f
+[8Cprocess ID: 182 (STILL RUNNING)
+While opening file "0-run"
+      CANNOT BE FOUND
+(1) Another program may be editing the same fil
+[19;48He[20;1H.  If this is the case,
+    be careful not to end up with two different
+instances of the same
+    file when making changes.  Quit, or continu
+[19;48He[20;2Hwith caution.
+(2) An edit session for this file crashed.
+[32m-- More --[?25h[m[20;1H[K[20;5HIf this is the case, use ":recover" or "vim
+[32m-- More --
