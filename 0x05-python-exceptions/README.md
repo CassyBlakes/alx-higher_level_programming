@@ -1,4 +1,4 @@
-# ALX Higher Level Programming.
+# Solution to tasks on 0x05. Python - Exceptions
 
 ## Task 0:  Safe list printing
 Write a function that prints x elements of a list.

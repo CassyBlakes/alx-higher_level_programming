@@ -1,2 +1,1 @@
-# Solutions to the python task on More Data structures
-## 0-
+# Solutions to tasks on More Data structures
